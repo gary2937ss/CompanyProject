@@ -15,4 +15,4 @@
 
 ## [文件解說](blog/index.html)
 
-![dog](pic/dog.jpg)
+![dog圖](pic/dog.jpg)
