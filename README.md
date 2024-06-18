@@ -10,4 +10,7 @@
     現正出爐<br>
     學習歷程<br>
 <hr>
-[Google] (https://www.google.com.tw)
+
+[GooGle](https://www.google.com.tw)
+
+[文件解說](blog/index.html)
