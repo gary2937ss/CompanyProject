@@ -10,4 +10,4 @@
     現正出爐<br>
     學習歷程<br>
 <hr>
-[Google](https://www.google.com.tw)
+[Google] (https://www.google.com.tw)
